@@ -16,7 +16,7 @@
 
 ## To run the app
 1. clone the repository.  
-2. cd instagramCloneApp. 
+2. cd instagramClone. 
 3. npm i. 
 4. react-native run-ios (for ios devices). 
 5. react-native run-android (for android devices). 
