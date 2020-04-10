@@ -6,11 +6,9 @@
 - added scrollable tabbar 
 - image calculation to display according to the requirement
 
-![Simulator Screen Shot - iPhone X - 2020-04-10 at 10 09 28](https://user-images.githubusercontent.com/23505129/78962206-90abe180-7b13-11ea-8715-01b52dec772f.png)
-![Simulator Screen Shot - iPhone X - 2020-04-10 at 10 09 21](https://user-images.githubusercontent.com/23505129/78962209-930e3b80-7b13-11ea-84a4-cbb3184b98fe.png)
-![Simulator Screen Shot - iPhone X - 2020-04-10 at 10 09 17](https://user-images.githubusercontent.com/23505129/78962211-94d7ff00-7b13-11ea-8939-f72c932eacfb.png)
-![Simulator Screen Shot - iPhone X - 2020-04-10 at 10 09 02](https://user-images.githubusercontent.com/23505129/78962213-96092c00-7b13-11ea-849f-ed8d218e0cf1.png)
-![Simulator Screen Shot - iPhone X - 2020-04-10 at 10 08 59](https://user-images.githubusercontent.com/23505129/78962214-973a5900-7b13-11ea-8767-bdb25d1272a5.png)
+
+![Simulator Screen Shot - iPhone X - 2020-04-10 at 10 09 02](https://user-images.githubusercontent.com/23505129/78962707-b1c10200-7b14-11ea-81c0-252606889997.png)
+![Simulator Screen Shot - iPhone X - 2020-04-10 at 10 09 17](https://user-images.githubusercontent.com/23505129/78962708-b2599880-7b14-11ea-989f-4412b9e35316.png)
 
 
 ## To run the app
