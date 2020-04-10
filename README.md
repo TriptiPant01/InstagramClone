@@ -7,6 +7,8 @@
 - image calculation to display according to the requirement
 
 ![Simulator Screen Shot - iPhone X - 2020-04-10 at 10 08 59](https://user-images.githubusercontent.com/23505129/78962848-2ac05980-7b15-11ea-91ee-4adb4005d410.png)
+![Simulator Screen Shot - iPhone X - 2020-04-10 at 10 24 34](https://user-images.githubusercontent.com/23505129/78963179-6871b200-7b16-11ea-9ddb-97636a41d75c.png)
+
 
 ![Simulator Screen Shot - iPhone X - 2020-04-10 at 10 26 13](https://user-images.githubusercontent.com/23505129/78963057-ed100080-7b15-11ea-83cd-74d867e8bc43.png)
 
